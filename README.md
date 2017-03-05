@@ -11,7 +11,8 @@ Recent works on image compression and video coding (especially deep-based)
   * Full Resolution Image Compression with Recurrent Neural Networks (Arxiv 2016), George Toderici, Damien Vincent, Nick Johnston, Sung Jin Hwang, David Minnen, Joel Shor, Michele Covell.
  * CAS-CNN [[Web]](https://arxiv.org/abs/1611.07233) [[PDF]](https://arxiv.org/pdf/1611.07233.pdf)
   * CAS-CNN: A Deep Convolutional Neural Network for Image Compression Artifact Suppression (Arxiv 2016), Lukas Cavigelli, Pascal Hager, Luca Benini.
-
+ * CAS-CNN [[Web]](https://github.com/iamaaditya/image-compression-cnn) [[PDF]](https://arxiv.org/pdf/1612.08712.pdf)
+  * Semantic Perceptual Image Compression using Deep Convolution Networks (Arxiv 2016), A Prakash, N Moran, S Garber, A DiLillo, J Storer.
 
 
 
