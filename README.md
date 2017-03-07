@@ -13,4 +13,6 @@ Recent works on image compression and video coding (especially deep-based)
   * CAS-CNN: A Deep Convolutional Neural Network for Image Compression Artifact Suppression (Arxiv 2016), Lukas Cavigelli, Pascal Hager, Luca Benini.
  * Semantic Perceptual Image Compression [[Web]](https://github.com/iamaaditya/image-compression-cnn) [[PDF]](https://arxiv.org/pdf/1612.08712.pdf)
   * Semantic Perceptual Image Compression using Deep Convolution Networks (Arxiv 2016), A Prakash, N Moran, S Garber, A DiLillo, J Storer.
+ * Generative Compression [[Web]](https://arxiv.org/abs/1703.01467) [[PDF]](https://arxiv.org/pdf/1703.01467.pdf)
+  * Generative Compression (Arxiv 2016), Shibani Santurkar, David Budden, Nir Shavit.
 
