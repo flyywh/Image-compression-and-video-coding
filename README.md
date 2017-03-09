@@ -38,7 +38,7 @@ Recent works on image compression and video coding (especially deep-based)
  * Auto-encoders compression [[Web]](https://arxiv.org/abs/1403.7752) [[PDF]](https://arxiv.org/pdf/1403.7752.pdf)
   * Auto-encoders: reconstruction versus compression (Arxiv 2014), Yann Ollivier.
 
- * Lightweight Lossy Compression [[Web]](Lightweight Lossy Compression) [[PDF]](http://ieeexplore.ieee.org/document/7239543/)
+ * Lightweight Lossy Compression [[Web]](http://ieeexplore.ieee.org/document/7239543/) [[PDF]](http://ieeexplore.ieee.org/document/7239543/)
   * Lightweight Lossy Compression of Biometric Patterns via Denoising Autoencoders (IEEE SPL), Davide Del Testa, Michele Rossi.
 
  * Variable Rate Image Compression [[Web]](https://arxiv.org/abs/1511.06085) [[PDF]](https://arxiv.org/pdf/1511.06085.pdf)
