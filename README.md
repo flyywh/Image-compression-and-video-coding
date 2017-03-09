@@ -41,4 +41,6 @@ Recent works on image compression and video coding (especially deep-based)
  * Lightweight Lossy Compression [[Web]](Lightweight Lossy Compression) [[PDF]](http://ieeexplore.ieee.org/document/7239543/)
   * Lightweight Lossy Compression of Biometric Patterns via Denoising Autoencoders (IEEE SPL), Davide Del Testa, Michele Rossi.
 
+ * Variable Rate Image Compression [[Web]](https://arxiv.org/abs/1511.06085) [[PDF]](https://arxiv.org/pdf/1511.06085.pdf)
+  * Variable Rate Image Compression with Recurrent Neural Networks (Arxiv 2015), George Toderici, Sean M. O'Malley, Sung Jin Hwang, Damien Vincent, David Minnen, Shumeet Baluja, Michele Covell, Rahul Sukthankar.
 
