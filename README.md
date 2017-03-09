@@ -32,5 +32,8 @@ Recent works on image compression and video coding (especially deep-based)
  * Nonlinear Transform Codes [[Web]](https://arxiv.org/abs/1607.05006) [[PDF]](https://arxiv.org/pdf/1607.05006.pdf)
   * End-to-end optimization of nonlinear transform codes for perceptual quality (PCS 2016), Johannes Ballé, Valero Laparra, Eero P. Simoncelli.
   
- * ss
-  * ss
+ * Conceptual Compression [[Web]](https://arxiv.org/abs/1604.08772) [[PDF]](https://arxiv.org/pdf/1604.08772.pdf)
+  * Towards Conceptual Compression (NIPS 2016), Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra.
+  
+ * Conceptual Compression [[Web]](https://arxiv.org/abs/1604.08772) [[PDF]](https://arxiv.org/pdf/1604.08772.pdf)
+  * Towards Conceptual Compression (NIPS 2016), Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra.
