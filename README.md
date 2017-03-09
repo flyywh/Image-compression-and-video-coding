@@ -35,5 +35,5 @@ Recent works on image compression and video coding (especially deep-based)
  * Conceptual Compression [[Web]](https://arxiv.org/abs/1604.08772) [[PDF]](https://arxiv.org/pdf/1604.08772.pdf)
   * Towards Conceptual Compression (NIPS 2016), Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra.
   
- * Conceptual Compression [[Web]](https://arxiv.org/abs/1604.08772) [[PDF]](https://arxiv.org/pdf/1604.08772.pdf)
-  * Towards Conceptual Compression (NIPS 2016), Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra.
+ * Auto-encoders compression [[Web]](https://arxiv.org/abs/1403.7752) [[PDF]](https://arxiv.org/pdf/1403.7752.pdf)
+  * Auto-encoders: reconstruction versus compression (Arxiv 2014), Yann Ollivier.
