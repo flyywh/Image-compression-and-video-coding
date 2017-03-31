@@ -45,4 +45,4 @@ Recent works on image compression and video coding (especially deep-based)
   * Variable Rate Image Compression with Recurrent Neural Networks (Arxiv 2015), George Toderici, Sean M. O'Malley, Sung Jin Hwang, Damien Vincent, David Minnen, Shumeet Baluja, Michele Covell, Rahul Sukthankar.
 
  * Priming and Spatially Adaptive Bit Rates Compression[[Web]](https://arxiv.org/abs/1703.10114) [[PDF]](https://arxiv.org/pdf/1703.10114.pdf)
-  * Improved Lossy Image Compression with Priming and Spatially Adaptive Bit Rates for Recurrent Networks (Arxiv 2017), Nick Johnston, Damien Vincent, David Minnen, Michele Covell, Saurabh Singh, Troy Chinen, Sung Jin Hwang, Joel Shor, George Toderici.
+   * Improved Lossy Image Compression with Priming and Spatially Adaptive Bit Rates for Recurrent Networks (Arxiv 2017), Nick Johnston, Damien Vincent, David Minnen, Michele Covell, Saurabh Singh, Troy Chinen, Sung Jin Hwang, Joel Shor, George Toderici.
