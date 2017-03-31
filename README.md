@@ -46,3 +46,7 @@ Recent works on image compression and video coding (especially deep-based)
 
  * Priming and Spatially Adaptive Bit Rates Compression[[Web]](https://arxiv.org/abs/1703.10114) [[PDF]](https://arxiv.org/pdf/1703.10114.pdf)
    * Improved Lossy Image Compression with Priming and Spatially Adaptive Bit Rates for Recurrent Networks (Arxiv 2017), Nick Johnston, Damien Vincent, David Minnen, Michele Covell, Saurabh Singh, Troy Chinen, Sung Jin Hwang, Joel Shor, George Toderici.
+
+ * Learning Convolutional Networks for Content-weighted Image Compression[[Web]](https://arxiv.org/abs/1703.10553) [[PDF]](https://arxiv.org/abs/1703.10553.pdf)
+   * Learning Convolutional Networks for Content-weighted Image Compression (Arxiv 2017), Mu Li, Wangmeng Zuo, Shuhang Gu, Debin Zhao, David Zhang.   
+   
