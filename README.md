@@ -50,5 +50,5 @@ Recent works on image compression and video coding (especially deep-based)
  * Learning Convolutional Networks for Content-weighted Image Compression[[Web]](https://arxiv.org/abs/1703.10553) [[PDF]](https://arxiv.org/abs/1703.10553.pdf)
    * Learning Convolutional Networks for Content-weighted Image Compression (Arxiv 2017), Mu Li, Wangmeng Zuo, Shuhang Gu, Debin Zhao, David Zhang.   
 
- * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding[[Web]](https://arxiv.org/pdf/1702.06728) [[PDF]](https://arxiv.org/pdf/1702.06728.pdf)
+ * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding[[Web]](https://arxiv.org/abs/1702.06728) [[PDF]](https://arxiv.org/pdf/1702.06728.pdf)
    * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding (Arxiv 2017), Yue Li, Dong Liu, Houqiang Li, Li Li, and Feng Wu. 
