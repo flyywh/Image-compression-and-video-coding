@@ -52,3 +52,6 @@ Recent works on image compression and video coding (especially deep-based)
 
  * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding[[Web]](https://arxiv.org/abs/1702.06728) [[PDF]](https://arxiv.org/pdf/1702.06728.pdf)
    * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding (Arxiv 2017), Yue Li, Dong Liu, Houqiang Li, Li Li, and Feng Wu. 
+
+ * A Convolutional Neural Network Approach for Half-Pel Interpolation in Video Coding[[Web]](https://arxiv.org/abs/1703.03502) [[PDF]](https://arxiv.org/pdf/1703.03502.pdf)
+   * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding (Arxiv 2017), Ning Yan, Dong Liu, Houqiang Li, and Feng Wu. 
