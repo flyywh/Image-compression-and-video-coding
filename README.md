@@ -19,15 +19,11 @@ Recent works on image compression and video coding (especially deep-based)
  * Semantic Perceptual Image Compression [[Web]](https://github.com/iamaaditya/image-compression-cnn) [[PDF]](https://arxiv.org/pdf/1612.08712.pdf)
    * Semantic Perceptual Image Compression using Deep Convolution Networks (Arxiv 2016), A Prakash, N Moran, S Garber, A DiLillo, J Storer.
  
- * Generative Compression [[Web]](https://arxiv.org/abs/1703.01467) [[PDF]](https://arxiv.org/pdf/1703.01467.pdf)
+ * Generative Compression [[Web]](https://arxiv.org/abs/1703.0Generative Compression1467) [[PDF]](https://arxiv.org/pdf/1703.01467.pdf)
    * Generative Compression (Arxiv 2017), Shibani Santurkar, David Budden, Nir Shavit.
-
 
  * Semantic Perceptual Image Compression [[Web]](https://github.com/iamaaditya/image-compression-cnn) [[PDF]](https://arxiv.org/pdf/1612.08712.pdf)
    * Semantic Perceptual Image Compression using Deep Convolution Networks (Arxiv 2016), A Prakash, N Moran, S Garber, A DiLillo, J Storer.
- 
- * Generative Compression [[Web]](https://arxiv.org/abs/1703.01467) [[PDF]](https://arxiv.org/pdf/1703.01467.pdf)
-   * Generative Compression (Arxiv 2017), Shibani Santurkar, David Budden, Nir Shavit.
 
  * Nonlinear Transform Codes [[Web]](https://arxiv.org/abs/1607.05006) [[PDF]](https://arxiv.org/pdf/1607.05006.pdf)
    * End-to-end optimization of nonlinear transform codes for perceptual quality (PCS 2016), Johannes Ballé, Valero Laparra, Eero P. Simoncelli.
