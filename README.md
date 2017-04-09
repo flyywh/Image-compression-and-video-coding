@@ -51,3 +51,6 @@ Recent works on image compression and video coding (especially deep-based)
 
  * A Convolutional Neural Network Approach for Half-Pel Interpolation in Video Coding[[Web]](https://arxiv.org/abs/1703.03502) [[PDF]](https://arxiv.org/pdf/1703.03502.pdf)
    * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding (Arxiv 2017), Ning Yan, Dong Liu, Houqiang Li, and Feng Wu. 
+
+ * Soft-to-Hard Vector Quantization for End-to-End Learned Compression of mages and Neural Networks[[Web]](https://arxiv.org/abs/1704.00648) [[PDF]](https://arxiv.org/pdf/1704.00648.pdf)
+   * Soft-to-Hard Vector Quantization for End-to-End Learned Compression of mages and Neural Networks (Arxiv 2017), Eirikur Agustsson, Fabian Mentzer, Michael Tschannen, Lukas Cavigelli, Radu Timofte, Luca Benini, Luc Van Gool. 
