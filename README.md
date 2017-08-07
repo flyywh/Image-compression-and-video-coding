@@ -47,7 +47,7 @@ Recent works on image compression and video coding (especially deep-based)
    * Learning Convolutional Networks for Content-weighted Image Compression (Arxiv 2017), Mu Li, Wangmeng Zuo, Shuhang Gu, Debin Zhao, David Zhang.   
 
  * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding[[Web]](https://arxiv.org/abs/1702.06728) [[PDF]](https://arxiv.org/pdf/1702.06728.pdf)
-   * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding (Arxiv 2017), Yue Li, Dong Liu, Houqiang Li, Li Li, and Feng Wu. 
+   * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding (TCSVT 2017), Yue Li, Dong Liu, Houqiang Li, Li Li, and Feng Wu. 
 
  * A Convolutional Neural Network Approach for Half-Pel Interpolation in Video Coding[[Web]](https://arxiv.org/abs/1703.03502) [[PDF]](https://arxiv.org/pdf/1703.03502.pdf)
    * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding (Arxiv 2017), Ning Yan, Dong Liu, Houqiang Li, and Feng Wu. 
@@ -60,3 +60,6 @@ Recent works on image compression and video coding (especially deep-based)
    
  * Variable Block-Sized Signal Dependent Transform [[PDF]](http://ieeexplore.ieee.org/document/7903672/)
    * Variable Block-Sized Signal Dependent Transform for Video Coding (TCSVT 2017), Cuiling Lan, Jizheng Xu, Wenjun Zeng, Guangming Shi, Feng Wu. 
+
+ * Codes + CNN [[PDF]](http://ieeexplore.ieee.org/document/7903672/)
+   * An End-to-End Compression Framework Based on Convolutional Neural Networks (TCSVT 2017), Feng Jiang, Wen Tao, Shaohui Liu, Jie Ren, Xun Guo, Debin Zhao. 
