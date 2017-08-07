@@ -54,3 +54,6 @@ Recent works on image compression and video coding (especially deep-based)
 
  * Soft-to-Hard Vector Quantization for End-to-End Learned Compression of mages and Neural Networks[[Web]](https://arxiv.org/abs/1704.00648) [[PDF]](https://arxiv.org/pdf/1704.00648.pdf)
    * Soft-to-Hard Vector Quantization for End-to-End Learned Compression of mages and Neural Networks (Arxiv 2017), Eirikur Agustsson, Fabian Mentzer, Michael Tschannen, Lukas Cavigelli, Radu Timofte, Luca Benini, Luc Van Gool. 
+   
+ * DC Coefficient Estimation [[PDF]](http://ieeexplore.ieee.org/document/7903672/)
+   * DC Coefficient Estimation of Intra-Predicted Residuals in HEVC (TCSVT 2017), Chen Chen, Zexiang Miao, Xiandong Meng, Shuyuan Zhu, Bing Zeng. 
