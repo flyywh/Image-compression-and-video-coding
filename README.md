@@ -58,8 +58,8 @@ Recent works on image compression and video coding (especially deep-based)
  * DC Coefficient Estimation [[PDF]](http://ieeexplore.ieee.org/document/7903672/)
    * DC Coefficient Estimation of Intra-Predicted Residuals in HEVC (TCSVT 2017), Chen Chen, Zexiang Miao, Xiandong Meng, Shuyuan Zhu, Bing Zeng.
    
- * Variable Block-Sized Signal Dependent Transform [[PDF]](http://ieeexplore.ieee.org/document/7903672/)
+ * Variable Block-Sized Signal Dependent Transform [[PDF]](http://ieeexplore.ieee.org/document/7888910/)
    * Variable Block-Sized Signal Dependent Transform for Video Coding (TCSVT 2017), Cuiling Lan, Jizheng Xu, Wenjun Zeng, Guangming Shi, Feng Wu. 
 
- * Codes + CNN [[PDF]](http://ieeexplore.ieee.org/document/7903672/)
+ * Codes + CNN [[PDF]](http://ieeexplore.ieee.org/document/7999241/)
    * An End-to-End Compression Framework Based on Convolutional Neural Networks (TCSVT 2017), Feng Jiang, Wen Tao, Shaohui Liu, Jie Ren, Xun Guo, Debin Zhao. 
