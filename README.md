@@ -1,5 +1,7 @@
 # Image-Compression-and-Video-Coding
 
+This list is maintained by Sifeng Xia, Yueyue Hu, Wenhan Yang, Dezhao Wang, Yuzhang Hu.
+
 Recent works on image compression and video coding (especially deep-based)
 
 #### Image Compression
