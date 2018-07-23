@@ -68,7 +68,13 @@ Recent works on image compression and video coding (especially deep-based)
  * Codes + CNN [[PDF]](http://ieeexplore.ieee.org/document/7999241/)
    * An End-to-End Compression Framework Based on Convolutional Neural Networks (TCSVT 2017), Feng Jiang, Wen Tao, Shaohui Liu, Jie Ren, Xun Guo, Debin Zhao. 
    
-#### Video Coding   
+#### Video Coding
+ * Neural Network Based Inter Prediction for HEVC
+   * Neural Network Based Inter Prediction for HEVC (ICME 2018), Yang Wang, Xiaopeng Fan, Chuanmin Jia, Debin Zhao, Wen Gao. 
+   
+ * Enhanced Image Decoding via Edge-Preserving Generative Adversarial Network
+   * Enhanced Image Decoding via Edge-Preserving Generative Adversarial Network (ICME 2018), Qi Mao, Shiqi Wang, Shanshe Wang, Xinfeng Zhang, Siwei Ma. 
+   
  * Fully Connected Network for HEVC CU Split Decision equipped with Laplacian Transparent Composite Model
    * Fully Connected Network for HEVC CU Split Decision equipped with Laplacian Transparent Composite Model (PCS 2018), Hossam Amer, Abdullah Rashwan, En-hui Yang. 
    
