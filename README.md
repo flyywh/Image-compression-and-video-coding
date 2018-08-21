@@ -83,14 +83,14 @@ Recent works on image compression and video coding (especially deep-based)
    * Convolutional Neural Network-Based Motion Compensation Refinement for Video Coding (ISCAS 2018), Zhenghui Zhao, Shiqi Wang, Shanshe Wang, Xinfeng Zhang, Siwei Ma and Jiansheng Yang. 
  * CNN-Based Bi-Directional Motion Compensation[[Web]](https://ieeexplore.ieee.org/document/8351189/) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8351189)
    * CNN-Based Bi-Directional Motion Compensation for High Efficiency Video Coding (ISCAS 2018), Zhenghui Zhao, Shiqi Wang, Shanshe Wang, Xinfeng Zhang, Siwei Ma and Jiansheng Yang. 
-   
-### Rate Control
- * RL for Rate Control[[Web]](https://ieeexplore.ieee.org/abstract/document/8351575/) [[PDF]](https://ieeexplore.ieee.org/iel7/8334884/8350884/08351575.pdf)
-   * Reinforcement Learning for HEVC/H.265 Intra-Frame Rate Control (ISCAS 2018), Jun-Hao Hu, Wen-Hsiao Peng, and Chia-Hua Chung. 
  * Group Variational Transformer for Fractional Interpolation[[Web]](https://arxiv.org/abs/1806.07008) [[PDF]](https://arxiv.org/pdf/1806.07008.pdf)
    * A Group Variational Transformation Neural Network for Fractional Interpolation of Video Coding (DCC 2018), Sifeng Xia, Wenhan Yang, Yueyu Hu, Siwei Ma, Jiaying Liu. 
  * CNN for Half-Pel Interpolation[[Web]](https://arxiv.org/abs/1703.03502) [[PDF]](https://arxiv.org/pdf/1703.03502.pdf)
    * A Convolutional Neural Network Approach for Half-Pel Interpolation in Video Coding (ISCAS 2017), Ning Yan, Dong Liu, Houqiang Li, and Feng Wu.   
+   
+### Rate Control
+ * RL for Rate Control[[Web]](https://ieeexplore.ieee.org/abstract/document/8351575/) [[PDF]](https://ieeexplore.ieee.org/iel7/8334884/8350884/08351575.pdf)
+   * Reinforcement Learning for HEVC/H.265 Intra-Frame Rate Control (ISCAS 2018), Jun-Hao Hu, Wen-Hsiao Peng, and Chia-Hua Chung. 
    
 ### Transform
  * Variable Block-Sized Signal Dependent Transform [[PDF]](http://ieeexplore.ieee.org/document/7888910/)
