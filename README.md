@@ -6,7 +6,7 @@
 
 **Sifeng Xia, Yueyue Hu, Wenhan Yang, Dezhao Wang, Yuzhang Hu**
 
-**[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu).**
+**[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu)**
 
 ## Image Compression
 ### Prediction
