@@ -34,8 +34,6 @@
    * End-to-end optimization of nonlinear transform codes for perceptual quality. (PCS 2016), J. Ballé, V. Laparra, E. P. Simoncelli
  * Maximaizing compression [[Web]](https://arxiv.org/abs/1108.1169)[[PDF]](https://arxiv.org/pdf/1108.1169.pdf)
    * Learning representations by maximizing compression.  K. Gregor, Y. LeCun.
- * Improved lossy compression [[Web]](https://arxiv.org/abs/1703.10114) [[PDF]](https://arxiv.org/pdf/1703.10114.pdf)
-   * Improved lossy image compression with priming and spatially adaptive bit rates for recurrent networks (arXiv ), N. Johnston, D. Vincent, D. Minnen, M. Covell, S. Singh, T. Chinen, S. J. Hwang, J. Shor, G. Toderici 
  * Autoencoder beyond pixels [[Web]](http://proceedings.mlr.press/v48/larsen16.html) [[PDF]](http://proceedings.mlr.press/v48/larsen16.pdf)
    * Autoencoding beyond pixels using a learned similarity metric (ICML 2016),A. B. L. Larsen, S. K. Sønderby, H. Larochelle, O. Winther
  * Simultaneous Compression and retrieval
