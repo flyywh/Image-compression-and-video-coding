@@ -30,8 +30,6 @@
    * Lightweight Lossy Compression of Biometric Patterns via Denoising Autoencoders (IEEE SPL 2015), Davide Del Testa, Michele Rossi.   
  * Entropy Control and Auto-encoders [[Web]](https://www.irisa.fr/temics/demos/visualization_ae/visualizationAE.htm) [[PDF]](https://arxiv.org/pdf/1802.09371)
    * Autoencoder based image compression: can the learning be quantization independent? (ICASSP 2018), Thierry Dumas, Aline, Roumy, Christine Guillemot.
- * Soft-to-hard vector quantization [[Web]](https://papers.nips.cc/paper/6714-soft-to-hard-vector-quantization-for-end-to-end-learning-compressible-representations)[[PDF]](https://papers.nips.cc/paper/6714-soft-to-hard-vector-quantization-for-end-to-end-learning-compressible-representations.pdf)
-   * Soft-to-hard vector quantization for end-to-end learning compressible representations. (NIPS 2017), E. Agustsson, F. Mentzer, M. Tschannen, L. Cavigelli, R. Timofte, L. Benini, L. V. Gool.
  * End-to-end optimization of nonlinear transform codes [[Web]](https://ieeexplore.ieee.org/document/7906310/)
    * End-to-end optimization of nonlinear transform codes for perceptual quality. (PCS 2016), J. Ballé, V. Laparra, E. P. Simoncelli
  * Maximaizing compression [[Web]](https://arxiv.org/abs/1108.1169)[[PDF]](https://arxiv.org/pdf/1108.1169.pdf)
