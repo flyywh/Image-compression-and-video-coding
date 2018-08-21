@@ -5,9 +5,9 @@
 Recent works on image compression and video coding (especially deep-based)
 
 
-###Image Compression
+## Image Compression
 
-#### Auto-Encoder
+### Auto-Encoder
  * CNN-based Prediction for Lossless Coding of Photographic Images
    * CNN-based Prediction for Lossless Coding of Photographic Images (PCS 2018), Ionut Schiopu, Yu Liu, Adrian Munteanu.
 
