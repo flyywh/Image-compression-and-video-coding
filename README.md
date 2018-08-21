@@ -6,7 +6,7 @@
 
 **[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu).**
 
-Recent works on image compression and video coding (especially deep-based)
+***Recent works on image compression and video coding (especially deep-based)***
 
 
 ## Image Compression
