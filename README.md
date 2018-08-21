@@ -31,7 +31,7 @@
  * Entropy Control and Auto-encoders [[Web]](https://www.irisa.fr/temics/demos/visualization_ae/visualizationAE.htm) [[PDF]](https://arxiv.org/pdf/1802.09371)
    * Autoencoder based image compression: can the learning be quantization independent? (ICASSP 2018), Thierry Dumas, Aline, Roumy, Christine Guillemot.
  * End-to-end optimization of nonlinear transform codes [[Web]](https://ieeexplore.ieee.org/document/7906310/)
-   * End-to-end optimization of nonlinear transform codes for perceptual quality. (PCS 2016), J. Ballé, V. Laparra, E. P. Simoncelli
+   * End-to-end optimization of nonlinear transform codes for perceptual quality (PCS 2016), J. Ballé, V. Laparra, E. P. Simoncelli
  * Maximaizing compression [[Web]](https://arxiv.org/abs/1108.1169)[[PDF]](https://arxiv.org/pdf/1108.1169.pdf)
    * Learning representations by maximizing compression.  K. Gregor, Y. LeCun.
  * Autoencoder beyond pixels [[Web]](http://proceedings.mlr.press/v48/larsen16.html) [[PDF]](http://proceedings.mlr.press/v48/larsen16.pdf)
