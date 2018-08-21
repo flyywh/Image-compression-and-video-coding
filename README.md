@@ -41,7 +41,7 @@
 
 ### Colorization
  * Colorization-based Coding [[Web]](https://www.sciencedirect.com/science/article/pii/S1077314217300267?via%3Dihub)
-   * Multiple hypothesis colorization and its application to image compression ( Computer Vision and Image Understanding 2017), M. H. Baig, L. Torresani.
+   * Multiple hypothesis colorization and its application to image compression (CVIU 2017), M. H. Baig, L. Torresani.
    
 ### Adaptive Bit Rates
  * Recurrent Neural Networks [[Web]](https://github.com/tensorflow/models/tree/master/compression) [[PDF]](https://arxiv.org/pdf/1608.05148.pdf)
