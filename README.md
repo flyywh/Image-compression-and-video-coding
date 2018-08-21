@@ -34,9 +34,9 @@
    * Full Resolution Image Compression with Recurrent Neural Networks (Arxiv 2016), George Toderici, Damien Vincent, Nick Johnston, Sung Jin Hwang, David Minnen, Joel Shor, Michele Covell.
  * Variable Rate Image Compression [[Web]](https://arxiv.org/abs/1511.06085) [[PDF]](https://arxiv.org/pdf/1511.06085.pdf)
    * Variable Rate Image Compression with Recurrent Neural Networks (Arxiv 2015), George Toderici, Sean M. O'Malley, Sung Jin Hwang, Damien Vincent, David Minnen, Shumeet Baluja, Michele Covell, Rahul Sukthankar.
- * Priming and Spatially Adaptive Bit Rates Compression[[Web]](https://arxiv.org/abs/1703.10114) [[PDF]](https://arxiv.org/pdf/1703.10114.pdf)
+ * Priming and Spatially Adaptive Bit Rates Compression [[Web]](https://arxiv.org/abs/1703.10114) [[PDF]](https://arxiv.org/pdf/1703.10114.pdf)
    * Improved Lossy Image Compression with Priming and Spatially Adaptive Bit Rates for Recurrent Networks (Arxiv 2017), Nick Johnston, Damien Vincent, David Minnen, Michele Covell, Saurabh Singh, Troy Chinen, Sung Jin Hwang, Joel Shor, George Toderici.   
- * Content-weighted Image Compression[[Web]](https://arxiv.org/abs/1703.10553) [[PDF]](https://arxiv.org/abs/1703.10553.pdf)
+ * Content-weighted Image Compression [[Web]](https://arxiv.org/abs/1703.10553) [[PDF]](https://arxiv.org/abs/1703.10553.pdf)
    * Learning Convolutional Networks for Content-weighted Image Compression (Arxiv 2017), Mu Li, Wangmeng Zuo, Shuhang Gu, Debin Zhao, David Zhang.   
 
 
@@ -76,7 +76,7 @@
    * Deep Learning Based HEVC In-Loop Filtering For Decoder Quality Enhancement (PCS 2018), Shiba Kuanar, Christopher Conly, Kamisetty Rao.
 
 ### Intra-Prediction Related
- * Progressive Spatial Recurrent Neural Network for Intra Prediction[[Web]](https://arxiv.org/abs/1807.02232) [[PDF]](https://arxiv.org/pdf/1807.02232.pdf)
+ * Progressive Spatial Recurrent Neural Network for Intra Prediction [[Web]](https://arxiv.org/abs/1807.02232) [[PDF]](https://arxiv.org/pdf/1807.02232.pdf)
    * Progressive Spatial Recurrent Neural Network for Intra Prediction (Arxiv 2018), Yueyu Hu, Wenhan Yang, Mading Li, Jiaying Liu. 
 
 ### Inter-Prediction Related
