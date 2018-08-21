@@ -1,6 +1,6 @@
 # Image and Video Coding
 
-**Recent works on image compression and video coding (especially deep-based)**
+**Recent works on image and video coding (especially deep-based)**
 
 **This list is maintained by:**
 
