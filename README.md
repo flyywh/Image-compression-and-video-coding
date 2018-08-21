@@ -1,13 +1,12 @@
 # Image-Compression-and-Video-Coding
 
+**Recent works on image compression and video coding (especially deep-based)**
+
 **This list is maintained by:**
 
 **Sifeng Xia, Yueyue Hu, Wenhan Yang, Dezhao Wang, Yuzhang Hu**
 
 **[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu).**
-
-***Recent works on image compression and video coding (especially deep-based)***
-
 
 ## Image Compression
 ### Prediction
