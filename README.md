@@ -62,7 +62,7 @@
    * Semantic Perceptual Image Compression (Arxiv 2016), A Prakash, N Moran, S Garber, A DiLillo, J Storer.
  * Conceptual Compression [[Web]](https://arxiv.org/abs/1604.08772) [[PDF]](https://arxiv.org/pdf/1604.08772.pdf)
    * Towards Conceptual Compression (NIPS 2016), Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra.
- * DNN-based Perceputual Similarity Metrics [[Web]](http://papers.nips.cc/paper/6158-generating-images-with-perceptual-similarity-metrics-based-on-deep-networks) [[PDF]]http://papers.nips.cc/paper/6158-generating-images-with-perceptual-similarity-metrics-based-on-deep-networks.pdf)
+ * DNN-based Perceputual Similarity Metrics [[Web]](http://papers.nips.cc/paper/6158-generating-images-with-perceptual-similarity-metrics-based-on-deep-networks) [[PDF]](http://papers.nips.cc/paper/6158-generating-images-with-perceptual-similarity-metrics-based-on-deep-networks.pdf)
    *  Generating images with perceptual similarity metrics based on deep networks. (NIPS 2016), A. Dosovitskiy, T. Brox.
  * Perceputual Similarity Metrics [[Web]](https://arxiv.org/abs/1511.06409) [[PDF]](https://arxiv.org/pdf/1511.06409.pdf)
    * Learning to generate images with perceptual similarity metrics (arXiv 2017), J. Snell, K. Ridgeway, R. Liao, B. D. Roads, M. C. Mozer, R. S. Zemel.
