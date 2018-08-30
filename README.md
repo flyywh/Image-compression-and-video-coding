@@ -101,6 +101,8 @@
    * A convolutional neural network approach for post-processing in HEVC intra coding (MMM 2017), Y. Dai, D. Liu, F. Wu.
  * CNN-based In-loop Filtering [[Web]](https://ieeexplore.ieee.org/document/7528223/) 
    * CNN-based in-loop filtering for coding efficiency improvement (IVMSP 2016), W.-S. Park, M. Kim.
+ * Spatial-Temporal Residue Network Based In-Loop Filter [[Web]](https://ieeexplore.ieee.org/document/7528223/) 
+   * Spatial-Temporal Residue Network Based In-Loop Filter for Video Coding, Chuanmin Jia, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Siwei Ma, VCIP 2017
 
 
 ### Intra-Prediction Related
@@ -112,6 +114,8 @@
    * Convolutional Neural Networks based Intra Prediction for HEVC (Arxiv 2018), Wenxue Cui, Tao Zhang, Shengping Zhang, Feng Jiang, Wangmeng Zuo, Debin Zhao.
  * Entropy coding [[Web]](https://arxiv.org/abs/1709.05737) [[PDF]](https://arxiv.org/pdf/1709.05737.pdf)
    * Neural network-based arithmetic coding of intra prediction modes in HEVC (VCIP 2017), R. Song, D. Liu, H. Li, F. Wu.
+ * Convolutional Neural Network Approach for Post-Processing in HEVC Intra Coding [[Web]](https://arxiv.org/abs/1709.05737) [[PDF]](https://arxiv.org/pdf/1709.05737.pdf)
+   * A Convolutional Neural Network Approach for Post-Processing in HEVC Intra Coding, Yuanying Dai, Dong Liu, and Feng Wu, MMM 2017
 
 
 ### Inter-Prediction Related
