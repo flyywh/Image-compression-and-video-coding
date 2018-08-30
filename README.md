@@ -165,7 +165,7 @@
  * CNN-Based Block Up-sampling[[Web]](https://arxiv.org/abs/1702.06728) [[PDF]](https://arxiv.org/pdf/1702.06728.pdf)
    * Convolutional Neural Network-Based Block Up-sampling for Intra Frame Coding (TCSVT 2017), Yue Li, Dong Liu, Houqiang Li, Li Li, and Feng Wu. 
  * Image interpolation [[Web]](https://arxiv.org/abs/1804.06919) [[PDF]](https://arxiv.org/pdf/1804.06919.pdf)
-   * Video compression through image interpolation (arXiv 2018), C.-Y. Wu, N. Singhal, P. Krähenbühl.
+   * Video compression through image interpolation (Arxiv 2018), C.-Y. Wu, N. Singhal, P. Krähenbühl.
 
 ### Auto-encoder
  * Learning Binary Residual Representations [[Web]](https://arxiv.org/abs/1712.05087) [[PDF]](https://arxiv.org/pdf/1712.05087.pdf)
