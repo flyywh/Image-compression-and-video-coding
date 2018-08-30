@@ -65,7 +65,7 @@
  * DNN-based Perceputual Similarity Metrics [[Web]](http://papers.nips.cc/paper/6158-generating-images-with-perceptual-similarity-metrics-based-on-deep-networks) [[PDF]](http://papers.nips.cc/paper/6158-generating-images-with-perceptual-similarity-metrics-based-on-deep-networks.pdf)
    *  Generating images with perceptual similarity metrics based on deep networks. (NIPS 2016), A. Dosovitskiy, T. Brox.
  * Perceputual Similarity Metrics [[Web]](https://arxiv.org/abs/1511.06409) [[PDF]](https://arxiv.org/pdf/1511.06409.pdf)
-   * Learning to generate images with perceptual similarity metrics (arXiv 2017), J. Snell, K. Ridgeway, R. Liao, B. D. Roads, M. C. Mozer, R. S. Zemel.
+   * Learning to generate images with perceptual similarity metrics (Arxiv 2017), J. Snell, K. Ridgeway, R. Liao, B. D. Roads, M. C. Mozer, R. S. Zemel.
  * Spatial LSTMs [[Web]](http://papers.nips.cc/paper/5637-generative-image-modeling-using-spatial-lstms) [[PDF]](http://papers.nips.cc/paper/5637-generative-image-modeling-using-spatial-lstms.pdf)
    * Generative image modeling using spatial LSTMs (NIPS 2015), L. Theis, M. Bethge.
  * Pixel RNN [[Web]](http://proceedings.mlr.press/v48/oord16.html) [[PDF]](http://proceedings.mlr.press/v48/oord16.pdf)
@@ -112,7 +112,7 @@
  * Decoder-Side Hevc Quality Enhancement [[Web]](https://ieeexplore.ieee.org/document/8019299/)
    * Decoder-Side Hevc Quality Enhancement With Scalable Convolutional Neural Network (ICME 2017), Ren Yang, Mai Xu and Zulin Wang.
  * Enhancing Quality for HEVC Compressed Videos [[Web]](https://arxiv.org/abs/1709.06734) 
-   * Enhancing Quality for HEVC Compressed Videos (arxiv 1709.06734), Ren Yang, Mai Xu, Tie Liu, Zulin Wang, and Zhenyu Guan.
+   * Enhancing Quality for HEVC Compressed Videos (Arxiv 2017), Ren Yang, Mai Xu, Tie Liu, Zulin Wang, and Zhenyu Guan.
  * Deep Learning-Based Method of Improving Coding Efficiency [[Web]](https://ieeexplore.ieee.org/document/7923714/)
    * A Novel Deep Learning-Based Method of Improving Coding Efficiency from the Decoder-end for HEVC (DCC 2017), Tingting Wang, Mingjin Chen and Hongyang Chao.
  * Cnn Based Post-Processing [[Web]](https://ieeexplore.ieee.org/document/8297149/)
