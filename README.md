@@ -102,29 +102,29 @@
  * CNN-based In-loop Filtering [[Web]](https://ieeexplore.ieee.org/document/7528223/) 
    * CNN-based in-loop filtering for coding efficiency improvement (IVMSP 2016), W.-S. Park, M. Kim.
  * Spatial-Temporal Residue Network Based In-Loop Filter [[Web]](https://arxiv.org/abs/1709.08462) 
-   * Spatial-Temporal Residue Network Based In-Loop Filter for Video Coding, Chuanmin Jia, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Siwei Ma, VCIP 2017
+   * Spatial-Temporal Residue Network Based In-Loop Filter for Video Coding(VCIP 2017), Chuanmin Jia, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Siwei Ma
  * In-Loop Filter Based on Multi-channel Long-Short-term Dependency Residual Networks [[Web]](https://ieeexplore.ieee.org/document/8416591/) 
-   * A New HEVC In-Loop Filter Based on Multi-channel Long-Short-term Dependency Residual Networks, Xiandong Meng, Chen Chen, Shuyuan Zhu, and Bing Zeng, DCC 2018
+   * A New HEVC In-Loop Filter Based on Multi-channel Long-Short-term Dependency Residual Networks(DCC 2018), Xiandong Meng, Chen Chen, Shuyuan Zhu, and Bing Zeng
  * Multi-Modal/Multi-Scale Convolutional Neural Network [[Web]](https://ieeexplore.ieee.org/document/8296236/)
-   * Multi-Modal/Multi-Scale Convolutional Neural Network Based In-Loop Filter Design For Next Generation Video Codec, Jihong Kang, Sungjei Kim, Kyoung Mu Lee, ICIP 2017
+   * Multi-Modal/Multi-Scale Convolutional Neural Network Based In-Loop Filter Design For Next Generation Video Codec(ICIP 2017), Jihong Kang, Sungjei Kim, Kyoung Mu Lee
  * Residual Highway Convolutional Neural Networks [[Web]](https://ieeexplore.ieee.org/document/8315464/)
-   * Residual Highway Convolutional Neural Networks for in-loop Filtering in HEVC, Yongbing Zhang, Tao Shen, Xiangyang Ji, Yun Zhang, Ruiqin Xiong, and Qionghai Dai, TIP 2018
+   * Residual Highway Convolutional Neural Networks for in-loop Filtering in HEVC(TIP 2018), Yongbing Zhang, Tao Shen, Xiangyang Ji, Yun Zhang, Ruiqin Xiong, and Qionghai Dai
  * Decoder-Side Hevc Quality Enhancement [[Web]](https://ieeexplore.ieee.org/document/8019299/)
-   * Decoder-Side Hevc Quality Enhancement With Scalable Convolutional Neural Network, Ren Yang, Mai Xu and Zulin Wang, ICME 2017
+   * Decoder-Side Hevc Quality Enhancement With Scalable Convolutional Neural Network(ICME 2017), Ren Yang, Mai Xu and Zulin Wang
  * Enhancing Quality for HEVC Compressed Videos [[Web]](https://arxiv.org/abs/1709.06734) 
-   * Enhancing Quality for HEVC Compressed Videos, Ren Yang, Mai Xu, Tie Liu, Zulin Wang, and Zhenyu Guan, arxiv 1709.06734
+   * Enhancing Quality for HEVC Compressed Videos(arxiv 1709.06734), Ren Yang, Mai Xu, Tie Liu, Zulin Wang, and Zhenyu Guan
  * Deep Learning-Based Method of Improving Coding Efficiency [[Web]](https://ieeexplore.ieee.org/document/7923714/)
-   * A Novel Deep Learning-Based Method of Improving Coding Efficiency from the Decoder-end for HEVC, Tingting Wang, Mingjin Chen and Hongyang Chao, Sun Yat-sen University, DCC 2017
+   * A Novel Deep Learning-Based Method of Improving Coding Efficiency from the Decoder-end for HEVC(DCC 2017), Tingting Wang, Mingjin Chen and Hongyang Chao, Sun Yat-sen University
  * Cnn Based Post-Processing [[Web]](https://ieeexplore.ieee.org/document/8297149/)
-   * Cnn Based Post-Processing To Improve Hevc, Chen Li, Li Song, Rong Xie and Wenjun Zhang, ICIP 2017
+   * Cnn Based Post-Processing To Improve Hevc(ICIP 2017), Chen Li, Li Song, Rong Xie and Wenjun Zhang
  * Multi-Scale Deep Decoder [[Web]](https://ieeexplore.ieee.org/document/8416592/)
-   * The Multi-Scale Deep Decoder for the Standard HEVC Bitstreams, Tingting Wang, Wenhui Xiao, Minglin Chen and Hongyang Chao, DCC 2018
+   * The Multi-Scale Deep Decoder for the Standard HEVC Bitstreams(DCC 2018), Tingting Wang, Wenhui Xiao, Minglin Chen and Hongyang Chao
  * Multi-Frame Quality Enhancement [[Web]](https://arxiv.org/abs/1803.04680)  
-   * Multi-Frame Quality Enhancement for Compressed Video, Ren Yang, Mai Xu, Zulin Wang and Tianyi Li, CVPR 2018
+   * Multi-Frame Quality Enhancement for Compressed Video(CVPR 2018), Ren Yang, Mai Xu, Zulin Wang and Tianyi Li
  * Convolutional Neural Network As Loop Filter For Intra Frame [[Web]](https://arxiv.org/abs/1805.06121) 
-   * A Practical Convolutional Neural Network As Loop Filter For Intra Frame, Xiaodan Song, Jiabao Yao, Lulu Zhou, Li Wang, Xiaoyang Wu, Di Xie and Shiliang Pu, ICIP 2018
+   * A Practical Convolutional Neural Network As Loop Filter For Intra Frame(ICIP 2018), Xiaodan Song, Jiabao Yao, Lulu Zhou, Li Wang, Xiaoyang Wu, Di Xie and Shiliang Pu
  * Enhancing Hevc Compressed Videos With Convolutional Neural Network [[Web]](https://arxiv.org/abs/1805.03894)
-   * Enhancing Hevc Compressed Videos With A Partition-Masked Convolutional Neural Network, Xiaoyi He, Qiang Hu, Xintong Han, Xia
+   * Enhancing Hevc Compressed Videos With A Partition-Masked Convolutional Neural Network(ICIP 2018), Xiaoyi He, Qiang Hu, Xintong Han, Xia
 
 ### Intra-Prediction Related
  * Progressive Spatial Recurrent Neural Network for Intra Prediction[[Web]](https://arxiv.org/abs/1807.02232) [[PDF]](https://arxiv.org/pdf/1807.02232.pdf)
@@ -136,7 +136,7 @@
  * Entropy coding [[Web]](https://arxiv.org/abs/1709.05737) [[PDF]](https://arxiv.org/pdf/1709.05737.pdf)
    * Neural network-based arithmetic coding of intra prediction modes in HEVC (VCIP 2017), R. Song, D. Liu, H. Li, F. Wu.
  * Convolutional Neural Network Approach for Post-Processing in HEVC Intra Coding [[Web]](https://arxiv.org/abs/1608.06690) [[PDF]](https://arxiv.org/pdf/1608.06690.pdf)
-   * A Convolutional Neural Network Approach for Post-Processing in HEVC Intra Coding, Yuanying Dai, Dong Liu, and Feng Wu, MMM 2017
+   * A Convolutional Neural Network Approach for Post-Processing in HEVC Intra Coding(MMM 2017), Yuanying Dai, Dong Liu, and Feng Wu
 
 
 ### Inter-Prediction Related
